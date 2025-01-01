@@ -9,7 +9,7 @@ A basic home page for primary domains on BrickMMO servers. Two existing servers 
 
 ## Project Stack
 
-This project uses vanilla [HTML](https://php.net).
+This project uses vanilla [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML).
 
 <img src="https://console.codeadam.ca/api/image/html" width="60"> 
 
